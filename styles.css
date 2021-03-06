@@ -1,0 +1,9 @@
+body {
+  background-color: gold;	
+}	
+
+.studio {
+   border-radius: 100%;
+   height: 350px;
+   width: 350px;   
+}
